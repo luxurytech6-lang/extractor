@@ -1,0 +1,45 @@
++1 904 121 5123 | Carrier: Unknown / Other Carrier
++1 979 115 0364 | Carrier: AT&T
++1 602 161 5575 | Carrier: Unknown / Other Carrier
++1 445 488 0838 | Carrier: Unknown / Other Carrier
++1 404 261 1375 | Carrier: Unknown / Other Carrier
++1 310 291 1284 | Carrier: T-Mobile
++1 701 310 6065 | Carrier: Unknown / Other Carrier
++1 318 340 3308 | Carrier: Unknown / Other Carrier
++1 667 945 8050 | Carrier: Unknown / Other Carrier
++1 832 272 3589 | Carrier: AT&T
++1 508 973 5826 | Carrier: Unknown / Other Carrier
++1 303 475 4770 | Carrier: Unknown / Other Carrier
++1 667 211 0667 | Carrier: Unknown / Other Carrier
++1 573 791 5328 | Carrier: Unknown / Other Carrier
++1 413 013 8925 | Carrier: Unknown / Other Carrier
++1 317 478 9686 | Carrier: Unknown / Other Carrier
++1 763 142 2614 | Carrier: Unknown / Other Carrier
++1 972 373 0037 | Carrier: AT&T
++1 227 771 7112 | Carrier: Unknown / Other Carrier
++1 227 731 5112 | Carrier: Unknown / Other Carrier
++1 415 727 9313 | Carrier: Unknown / Other Carrier
++1 661 819 4563 | Carrier: T-Mobile
++1 661 971 1387 | Carrier: T-Mobile
++1 279 687 9577 | Carrier: Unknown / Other Carrier
++1 206 150 1465 | Carrier: T-Mobile
++1 201 111 3220 | Carrier: Verizon
++1 985 940 3337 | Carrier: Unknown / Other Carrier
++1 586 666 2947 | Carrier: Unknown / Other Carrier
++1 971 595 2831 | Carrier: Unknown / Other Carrier
++1 718 786 5506 | Carrier: Unknown / Other Carrier
++1 219 206 2513 | Carrier: Unknown / Other Carrier
++1 779 381 5900 | Carrier: Unknown / Other Carrier
++1 458 124 9999 | Carrier: Unknown / Other Carrier
++1 773 102 1353 | Carrier: Unknown / Other Carrier
++1 573 134 3829 | Carrier: Unknown / Other Carrier
++1 323 134 6138 | Carrier: T-Mobile
++1 274 140 7462 | Carrier: Unknown / Other Carrier
++1 274 139 7945 | Carrier: Unknown / Other Carrier
++1 274 139 0229 | Carrier: Unknown / Other Carrier
++1 215 208 3035 | Carrier: Verizon
++1 971 178 8347 | Carrier: Unknown / Other Carrier
++1 458 186 9057 | Carrier: Unknown / Other Carrier
++1 327 796 1213 | Carrier: Unknown / Other Carrier
++1 847 389 5582 | Carrier: Unknown / Other Carrier
++1 281 669 8520 | Carrier: AT&T
